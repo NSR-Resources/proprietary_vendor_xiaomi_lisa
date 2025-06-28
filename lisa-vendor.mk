@@ -417,6 +417,7 @@ PRODUCT_PACKAGES += \
     vendor.xiaomi.hardware.citsensorservice@1.1-impl \
     libAF \
     libFlickerDet \
+    libQnnHtpStub \
     libSNPE \
     lib_sr_models \
     libaidenoiser \
