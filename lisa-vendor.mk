@@ -267,13 +267,9 @@ PRODUCT_PACKAGES += \
     libaudiocloudctrl \
     libaudioparsers \
     libaudioroute_ext \
-    libbatterylistener \
-    libhdmiedid \
     libhdmipassthru \
-    libhfp \
     libqtigef \
     libresampler \
-    libsndmonitor \
     libvideoNS \
     com.qti.actuator.lisa_ofilm_s5kgw3_dw9800_wide \
     com.qti.actuator.lisa_semco_s5kgw3_dw9800_wide \
