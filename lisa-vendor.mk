@@ -256,8 +256,7 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     libcamxexternalformatutils \
-    audio.primary.lahaina \
-    liba2dpoffload \
+    audio.primary.lisa \
     libacdb-fts \
     libacdbloader \
     libacdbrtac \
@@ -275,7 +274,6 @@ PRODUCT_PACKAGES += \
     libqtigef \
     libresampler \
     libsndmonitor \
-    libssrec \
     libvideoNS \
     com.qti.actuator.lisa_ofilm_s5kgw3_dw9800_wide \
     com.qti.actuator.lisa_semco_s5kgw3_dw9800_wide \
@@ -588,6 +586,8 @@ PRODUCT_PACKAGES += \
     misound_karaokemix_res \
     misound_res_headphone \
     misound_res_spk \
+    liba2dpoffload_odm \
+    libssrec_odm \
     batterysecret \
     init.qcom.sensors \
     sensors.qti \
